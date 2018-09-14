@@ -1,0 +1,2 @@
+start initialize_port.py
+exit

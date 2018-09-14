@@ -1,0 +1,2 @@
+start openG.py
+exit

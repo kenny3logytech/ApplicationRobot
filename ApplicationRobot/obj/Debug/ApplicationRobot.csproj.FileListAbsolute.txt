@@ -1,0 +1,11 @@
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\bin\Debug\ApplicationRobot.exe.config
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\bin\Debug\ApplicationRobot.exe
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\bin\Debug\ApplicationRobot.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.Form1.resources
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.Properties.Resources.resources
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.csproj.GenerateResource.Cache
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.exe
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\bin\Debug\OBIDISC4NET.dll
+c:\users\kenny\documents\visual studio 2015\Projects\ApplicationRobot\ApplicationRobot\bin\Debug\OBIDISC4NETnative.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\ApplicationRobot\ApplicationRobot\obj\Debug\ApplicationRobot.csprojResolveAssemblyReference.cache

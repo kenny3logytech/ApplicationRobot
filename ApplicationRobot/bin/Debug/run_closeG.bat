@@ -1,0 +1,2 @@
+start closeG.py
+exit
